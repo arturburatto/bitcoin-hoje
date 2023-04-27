@@ -1,0 +1,22 @@
+body {
+    background-color: #041C32;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div1 {
+   
+    text-align: center;
+    padding: 50px 0;
+    color: #ECDBBA;
+}
+
+.btc {
+    font-size: 50px;
+}
+
+.menu {
+    display: block;
+    color: #ECB365;
+    padding: 15px;
+    text-align: center;
+}
